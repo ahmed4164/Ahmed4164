@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://Ahmed.com
+[website]: http://ahmed416.me/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Ahmed
 [youtube]: https://youtube.com/Ahmed
