@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=Ahmed.com&style=for-the-badge&url=https%3A%2F%2FAhmed.com)](http://ahmed416.me/)
 
+
 ## I'm a Student, Developer, and programmer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -48,7 +49,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
+
+
+<!-- ## 🔥 Streak Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed4164&theme=algolia" alt="Ahmed4164"  /></p> -->
+
+
 
 [website]: http://ahmed416.me/
 [instagram]: https://www.instagram.com/_ahmed011_/
