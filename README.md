@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ahmed4164/Ahmed4164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Jesse - aka [Ahmed][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Ahmed.com&style=for-the-badge&url=https%3A%2F%2FAhmed.com)](https://Ahmed416.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAhmed&screen_name=Ahmed)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer, and programmer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ahmed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -71,21 +71,21 @@ Here are some ideas to get you started:
 - [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/Ahmed)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/Ahmed/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/Ahmed/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/Ahmed/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/Ahmed/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/Ahmed/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://Ahmed.com)
 
 ---
 
@@ -93,11 +93,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/26) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/20) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/23) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+1. 🗣 Commented on [#26](https://github.com/Ahmed/video-source-code-create-nft-collection/issues/26) in [Ahmed/video-source-code-create-nft-collection](https://github.com/Ahmed/video-source-code-create-nft-collection)
+2. ❗️ Closed issue [#25](https://github.com/Ahmed/video-source-code-create-nft-collection/issues/25) in [Ahmed/video-source-code-create-nft-collection](https://github.com/Ahmed/video-source-code-create-nft-collection)
+3. 🗣 Commented on [#25](https://github.com/Ahmed/video-source-code-create-nft-collection/issues/25) in [Ahmed/video-source-code-create-nft-collection](https://github.com/Ahmed/video-source-code-create-nft-collection)
+4. ❗️ Closed issue [#20](https://github.com/Ahmed/video-source-code-create-nft-collection/issues/20) in [Ahmed/video-source-code-create-nft-collection](https://github.com/Ahmed/video-source-code-create-nft-collection)
+5. ❗️ Closed issue [#23](https://github.com/Ahmed/video-source-code-create-nft-collection/issues/23) in [Ahmed/video-source-code-create-nft-collection](https://github.com/Ahmed/video-source-code-create-nft-collection)
 <!--END_SECTION:activity-->
 
 </details>
@@ -105,16 +105,16 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ahmed's GitHub Stats" src="https://github-readme-stats.Ahmed.vercel.app/api?username=Ahmed&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://Ahmed.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/Ahmed
+[youtube]: https://youtube.com/Ahmed
+[instagram]: https://instagram.com/Ahmed
+[linkedin]: https://linkedin.com/in/Ahmed
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
