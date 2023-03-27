@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm [Mohammed Ahmed][website] 👋 
 
-[![Website](https://img.shields.io/website?label=Ahmed.com&style=for-the-badge&url=https%3A%2F%2FAhmed.com)](http://ahmed416.me/)
+[![Website](https://img.shields.io/website?label=iamhmed.tech&style=for-the-badge&url=https%3A%2F%2FAhmed.com)](https://iamahmed.tech/)
 
 
 ## I'm a Student, Developer, and programmer!!
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 
 
-[website]: http://ahmed416.me/
+[website]: https://iamahmed.tech/
 [instagram]: https://www.instagram.com/_ahmed011_/
 [linkedin]: https://www.linkedin.com/in/mohammed-ahmed-8033471a1/
