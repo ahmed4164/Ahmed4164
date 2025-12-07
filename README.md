@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm [Mohammed Ahmed][website] 👋 
 
-[![Website](https://img.shields.io/website?label=iamhmed.tech&style=for-the-badge&url=https%3A%2F%2FAhmed.com)](https://iamahmed.tech/)
-
-
-## I'm a Student, Developer, and programmer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other 
-- 🥅 2023 Goals: Contribute more to Open Source projects
-
 ### Connect with me:
 
 [<img align="left" alt="Ahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
