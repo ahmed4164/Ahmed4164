@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm [Mohammed Ahmed][website] 👋 
 
-### Connect with me:
-
-[<img align="left" alt="Ahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
